@@ -55,10 +55,10 @@ int factorial(int a)
         printf(" No es posible sacar fatorial de un numero negativo\n");
     }else if(a == 0 || a == 1){
         total = 1;
-        printf(" \n El factorial de A es: %d\n", total);
+        printf(" \n El factorial de A! es: %d\n", total);
     }else{
            total = a * factorial(a - 1);
-           printf(" El factorial de A es: %d\n", total);
+           printf(" El factorial de A! es: %d\n", total);
          }
 
     return total;
