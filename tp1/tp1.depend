@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1554067411 source:c:\users\marti\downloads\c-master\tp1\bibliotecaa.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaA.h"
+
+1554067391 c:\users\marti\downloads\c-master\tp1\bibliotecaa.h
+
+1554086628 source:c:\users\marti\downloads\c-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaA.h"
+
+1554402589 source:c:\users\marti\documents\github\c\tp1\bibliotecaa.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaA.h"
+
+1554313657 c:\users\marti\documents\github\c\tp1\bibliotecaa.h
+
+1554403043 source:c:\users\marti\documents\github\c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaA.h"
+
