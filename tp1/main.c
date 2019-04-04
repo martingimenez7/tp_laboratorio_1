@@ -47,7 +47,7 @@ int main()
             factorial(a);
        break;
        case 6:
-            printf(" Saiendo...\n");
+            printf(" Saliendo...\n");
             return 7;
        break;
 
